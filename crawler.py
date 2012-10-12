@@ -1,3 +1,7 @@
+# Author: Ketan Jawahire
+# Program to generate a simple Web Crawler using Python
+
+
 #!/usr/bin/python
 
 import httplib
